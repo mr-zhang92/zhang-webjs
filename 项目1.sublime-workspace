@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"im",
+				"!important〔value〕"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"big",
+				"big_stats"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"ale",
+				"alert〔function〕"
+			],
+			[
+				"boo",
+				"boolean〔keyword〕"
+			],
+			[
+				"bgsz",
+				"background-size"
+			],
+			[
+				"par",
+				"parseInt〔function〕"
+			],
+			[
+				"doc",
+				"document.write"
+			],
+			[
+				"patt1",
+				"patt1=new"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"sr",
+				"strong\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/phpStudy/WWW/m/template/index.tpl.php",
+		"/D/phpStudy/WWW/m/index.php",
+		"/D/phpStudy/WWW/m/template/css/style.css",
+		"/D/phpStudy/WWW/mapp/template/css/style.css",
+		"/D/phpStudy/WWW/mapp/index.php",
+		"/D/phpStudy/WWW/iosapp/template/css/style.css",
+		"/D/phpStudy/WWW/iosapp/index.php",
+		"/D/phpStudy/WWW/mapp/template/search.tpl.php",
+		"/D/phpStudy/WWW/iosapp/template/search.tpl.php",
+		"/D/phpStudy/WWW/m/template/search.tpl.php",
+		"/I/admin/文章.txt",
+		"/D/phpStudy/WWW/m/template/category_list.tpl.php",
+		"/C/Users/Administrator/Desktop/category_list.tpl.php",
+		"/D/phpStudy/WWW/iosapp/template/member.tpl.php",
+		"/D/phpStudy/WWW/m/template/member.tpl.php",
+		"/D/phpStudy/WWW/mapp/template/member.tpl.php",
+		"/D/phpStudy/WWW/iosapp/template/member_login.tpl.php",
+		"/D/phpStudy/WWW/m/template/css/list.css",
+		"/D/phpStudy/WWW/mapp/template/index.tpl.php",
+		"/D/phpStudy/WWW/mapp/template/css/category_newlist.css",
+		"/D/phpStudy/WWW/m/template/css/category_newlist.css",
+		"/D/phpStudy/WWW/iosapp/template/css/category_newlist.css",
+		"/D/phpStudy/WWW/m/template/header_search.tpl.php",
+		"/D/phpStudy/WWW/admin/template/css/head.css",
+		"/D/phpStudy/WWW/admin/template/admin_top.tpl.php",
+		"/C/Users/Administrator/Desktop/sublime/index.html",
+		"/C/Users/Administrator/Desktop/sublime/sublime.js",
+		"/D/phpStudy/finance/Public/css/style.css",
+		"/D/phpStudy/finance/Application/Home/View/Index/index.html",
+		"/D/phpStudy/finance/Application/Common/Conf/db.php",
+		"/D/Discuz_X3.2_SC_UTF8/utility/convert/source/uch2.0_x2.0/table/home_friendlog.php",
+		"/D/phpStudy/finance/Application/Home/View/Public/mainheader.html",
+		"/D/phpStudy/finance/Application/Home/View/Public/login.html",
+		"/D/phpStudy/finance/Application/Home/View/Public/toppanel.html",
+		"/D/phpStudy/finance/Application/Home/Controller/index.html",
+		"/D/phpStudy/finance/Application/Home/Common/index.html",
+		"/D/phpStudy/finance/Application/Home/index.html",
+		"/D/phpStudy/finance/Application/Home/View/Users/Public/topbutton.html",
+		"/D/phpStudy/finance/Application/Home/View/Users/addUser.html",
+		"/D/phpStudy/finance/Application/Home/View/Public/head.html",
+		"/D/phpStudy/finance/Application/Home/Controller/PublicController.class.php",
+		"/D/phpStudy/WWW/m/template/member_per.tpl.php",
+		"/D/phpStudy/finance/Application/Common/Conf/config.php",
+		"/D/phpStudy/finance/Application/Home/Lang/en-us.php",
+		"/D/phpStudy/WWW/m/template/css/member_personal.css",
+		"/D/phpStudy/WWW/mapp/template/member_per.tpl.php",
+		"/D/phpStudy/WWW/mapp/template/css/member_personal.css",
+		"/D/phpStudy/WWW/iosapp/template/css/member_personal.css",
+		"/D/phpStudy/WWW/iosapp/template/member_per.tpl.php",
+		"/D/phpStudy/WWW/m/template/css/member_newindex.css",
+		"/I/admin/前端/工作/手机端分类筛选 遮罩层 屏幕固定/category_list.tpl.php",
+		"/I/admin/前端/工作/手机端分类筛选 遮罩层 屏幕固定/category_newlist.css",
+		"/I/admin/前端/表格/zhanghu.html",
+		"/I/admin/前端/工作/PC端商家个人页面/个人版/member_personal.css",
+		"/I/admin/前端/官网/index.html",
+		"/I/admin/前端/表格/fabumoney.html",
+		"/I/admin/前端/表格/style/denglu.css",
+		"/I/admin/前端/表格/index.html",
+		"/C/Users/Administrator/Desktop/sublime/项目1.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Administrator/Desktop/练习模板/模板.css",
+		"/C/Users/Administrator/Desktop/练习模板/sublime软件熟悉/sublime.css",
+		"/I/admin/前端/工作/PC端商家个人blue版/base.css",
+		"/C/Users/Administrator/Desktop/练习模板/sublime软件熟悉..html",
+		"/C/Users/Administrator/Desktop/练习模板/sublime软件熟悉.js",
+		"/C/Users/Administrator/Desktop/练习模板/模板练习.html",
+		"/C/Users/Administrator/Desktop/练习模板/jquery-1.9.1.min.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".pager",
+			"se",
+			".se_nav",
+			"se_nav",
+			"se_nav se",
+			"search_input",
+			".search_input",
+			"search",
+			".search",
+			"span",
+			"logonav",
+			"<!",
+			"x",
+			"=\"",
+			"class",
+			"g_3",
+			"g_7",
+			"g_3",
+			".tickets_stats",
+			"transparent",
+			"users_stats",
+			"g_3",
+			".tickets_stats",
+			"header_search",
+			"app_exit",
+			"recharge",
+			"Infinity",
+			"box",
+			"false",
+			"valueOf",
+			"89",
+			"box",
+			"fase",
+			"2",
+			"4",
+			"2",
+			"box",
+			";\n",
+			"box",
+			"typeof",
+			"fase",
+			"true",
+			"null",
+			"age",
+			"box",
+			");\n",
+			"box",
+			"nihao",
+			"\"};",
+			"nihao",
+			"\";",
+			"nihao",
+			"box",
+			"nihao",
+			"input",
+			"!",
+			"p.",
+			"p*",
+			"p/w*",
+			"javascript",
+			"section",
+			"id",
+			"value",
+			"li",
+			"filter",
+			"order",
+			"part",
+			"i",
+			"section",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.508655126498,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "项目1.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Administrator\\Desktop\\sublime\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
